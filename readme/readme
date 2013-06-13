@@ -1,0 +1,2 @@
+使用lame 实现操作系统级别的wav转换map3  (转换后wav是map3大小的十分之一)
+apt-get install lame
